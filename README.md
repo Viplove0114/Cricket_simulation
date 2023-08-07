@@ -1,4 +1,5 @@
 # Cricket Match Simulation
+![Demo GIF](C:\Users\91782\Videos\Captures\ct.mp4)
 
 This project is a Python-based cricket match simulation that allows users to simulate a cricket match between two teams. The simulation employs various classes and modules to create an interactive and dynamic cricket match experience.
 
